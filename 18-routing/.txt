@@ -1,0 +1,12 @@
+BrowserRouter - history based routing
+
+sheryians.com =/
+sheryians.com/courses =/courses
+sheryians.com/about =/about
+
+
+HashRouter - dont know website where youre routing  
+
+MemoryRouter - memory based routing saves data in memory use in react native
+
+StaticRouter - use in nextjs 

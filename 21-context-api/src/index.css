@@ -1,0 +1,30 @@
+ *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ }
+ html,body{
+  height: 100%;
+  width: 100%;
+  background: #000;
+  color: white;
+
+ }
+ .nav2{
+  display: flex;
+  gap: 20px;
+ }
+ .light{
+  background-color: lightseagreen;
+   display: flex; 
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+ }
+ .dark{
+  background-color: darkcyan;
+   display: flex; 
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+ }
